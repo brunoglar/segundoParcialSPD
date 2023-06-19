@@ -14,7 +14,7 @@
 
 ---
 
-![Tinkercad](segundoParcialSpd "Vista previa, esquema en Tinkercad")
+![Tinkercad](segundoParcialSpd.png "Vista previa, esquema en Tinkercad")
 
 ## **<span style="color:yellow">Consigna del Sistema de Incendio:**
 
